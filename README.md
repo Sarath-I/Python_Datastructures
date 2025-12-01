@@ -1,2 +1,1 @@
-# Culminating_Project
-This project focuses on analyzing the employee dataset of ABC Company to understand workforce distribution, salary patterns, and employee demographics. The project includes preprocessing, multiple analytical tasks, visualizations, and key insights derived from the dataset.
+Entri elavate Weekly Assignment 1: Exploring Python Data Structures. As part of my Data Science with Generative AI course at Entry Elevate, this repository delves into the fundamentals of Python data structures. Each update is carefully crafted to present a clear, professional, and well-documented look at how core data structures are implemented and used in Python.
